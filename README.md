@@ -47,6 +47,7 @@ WEBSITE
 
 SUBMISSION
 12.) Submit (Day 4)
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -56,7 +57,7 @@ SUBMISSION
 - Mobile-first workflow
 
 ### What I learned
-
+I learned how to use media queries to implement responsive web design into my projects. I am seeking to learn more about how responsive web design incorporates into more sophisticated frameworks such as Bootstrap.
 ### Continued development
 
 ### Useful resources
