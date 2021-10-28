@@ -14,10 +14,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,6 +25,10 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
+
+### Screenshot
+
+![Screen Shot 2021-10-28 at 09 36 07](https://user-images.githubusercontent.com/49009141/139266925-197d82f8-857b-4872-a8dc-1dbd88f83a01.png)
 
 ## My process
 
@@ -62,8 +64,7 @@ I learned how to use media queries to implement responsive web design into my pr
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries) - Helped me understand CSS media queries to bolster mobile-first responsive web design.
 
 ## Author
 
